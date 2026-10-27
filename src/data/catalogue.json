@@ -1,0 +1,1078 @@
+[
+  {
+    "name": "Sleeveless Rib Top",
+    "slug": "sleeveless-rib-top-white",
+    "category": "tops",
+    "price": 1290,
+    "description": "Sleeveless Rib Top in white — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Soft, breathable cotton blend",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10106.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f7f7f5"
+      }
+    ],
+    "stockCount": 18,
+    "isFeatured": false,
+    "isNewArrival": true,
+    "rating": 4.9,
+    "reviewCount": 37,
+    "gender": "women"
+  },
+  {
+    "name": "Mock Neck Knit Mini Dress",
+    "slug": "mock-neck-knit-mini-dress-ecru",
+    "category": "tops",
+    "price": 2990,
+    "description": "Mock Neck Knit Mini Dress in ecru — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Soft, breathable cotton blend",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10107.jpg",
+      "10114.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Ecru",
+        "hex": "#ece5d6"
+      }
+    ],
+    "stockCount": 10,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "rating": 5,
+    "reviewCount": 213,
+    "gender": "women"
+  },
+  {
+    "name": "Textured Short-Sleeve Top",
+    "slug": "textured-short-sleeve-top-blue",
+    "category": "tops",
+    "price": 1790,
+    "description": "Textured Short-Sleeve Top in blue — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Soft, breathable cotton blend",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10220.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#6f8fb3"
+      }
+    ],
+    "stockCount": 11,
+    "isFeatured": true,
+    "isNewArrival": false,
+    "rating": 4,
+    "reviewCount": 135,
+    "gender": "women"
+  },
+  {
+    "name": "Textured Short-Sleeve Top",
+    "slug": "textured-short-sleeve-top-stone",
+    "category": "tops",
+    "price": 1790,
+    "description": "Textured Short-Sleeve Top in stone — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Soft, breathable cotton blend",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10221.jpg",
+      "10223.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c9beac"
+      }
+    ],
+    "stockCount": 13,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "rating": 4.6,
+    "reviewCount": 216,
+    "gender": "women"
+  },
+  {
+    "name": "Textured Short-Sleeve Top",
+    "slug": "textured-short-sleeve-top-grey",
+    "category": "tops",
+    "price": 1790,
+    "originalPrice": 2290,
+    "description": "Textured Short-Sleeve Top in grey — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Soft, breathable cotton blend",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10222.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Grey",
+        "hex": "#a7a5a1"
+      }
+    ],
+    "stockCount": 29,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "rating": 4.6,
+    "reviewCount": 46,
+    "gender": "women"
+  },
+  {
+    "name": "Cropped Wool-Blend Sweater",
+    "slug": "cropped-wool-blend-sweater-blue",
+    "category": "tops",
+    "price": 3490,
+    "description": "Cropped Wool-Blend Sweater in blue — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Soft, breathable cotton blend",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10238.jpg",
+      "10237.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#6f8fb3"
+      }
+    ],
+    "stockCount": 34,
+    "isFeatured": false,
+    "isNewArrival": true,
+    "rating": 4.8,
+    "reviewCount": 65,
+    "gender": "women"
+  },
+  {
+    "name": "Manhattan Graphic Tee",
+    "slug": "manhattan-graphic-tee-white",
+    "category": "t-shirts",
+    "price": 1490,
+    "description": "Manhattan Graphic Tee in white — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "100% cotton jersey",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10110.jpg",
+      "10206.jpeg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f7f7f5"
+      }
+    ],
+    "stockCount": 22,
+    "isFeatured": true,
+    "isNewArrival": true,
+    "rating": 4.8,
+    "reviewCount": 100,
+    "gender": "unisex"
+  },
+  {
+    "name": "Cropped Fitted Tee",
+    "slug": "cropped-fitted-tee-black",
+    "category": "t-shirts",
+    "price": 990,
+    "description": "Cropped Fitted Tee in black — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "100% cotton jersey",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10109.jpg",
+      "10226.jpg",
+      "10207.jpeg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1a1a1a"
+      }
+    ],
+    "stockCount": 20,
+    "isFeatured": true,
+    "isNewArrival": false,
+    "rating": 4.1,
+    "reviewCount": 186,
+    "gender": "women"
+  },
+  {
+    "name": "Cropped Fitted Tee",
+    "slug": "cropped-fitted-tee-olive",
+    "category": "t-shirts",
+    "price": 990,
+    "description": "Cropped Fitted Tee in olive — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "100% cotton jersey",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10224.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#6b6a4a"
+      }
+    ],
+    "stockCount": 36,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "rating": 4.8,
+    "reviewCount": 229,
+    "gender": "women"
+  },
+  {
+    "name": "Cropped Fitted Tee",
+    "slug": "cropped-fitted-tee-navy",
+    "category": "t-shirts",
+    "price": 990,
+    "description": "Cropped Fitted Tee in navy — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "100% cotton jersey",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10225.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#1f2a44"
+      }
+    ],
+    "stockCount": 4,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "rating": 5,
+    "reviewCount": 123,
+    "gender": "women"
+  },
+  {
+    "name": "Boxy Mock Neck Tee",
+    "slug": "boxy-mock-neck-tee-grey",
+    "category": "t-shirts",
+    "price": 1690,
+    "description": "Boxy Mock Neck Tee in grey — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "100% cotton jersey",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10215.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Grey",
+        "hex": "#a7a5a1"
+      }
+    ],
+    "stockCount": 21,
+    "isFeatured": false,
+    "isNewArrival": true,
+    "rating": 4.2,
+    "reviewCount": 60,
+    "gender": "unisex"
+  },
+  {
+    "name": "Boxy Mock Neck Tee",
+    "slug": "boxy-mock-neck-tee-white",
+    "category": "t-shirts",
+    "price": 1690,
+    "description": "Boxy Mock Neck Tee in white — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "100% cotton jersey",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10216.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f7f7f5"
+      }
+    ],
+    "stockCount": 26,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "rating": 5,
+    "reviewCount": 135,
+    "gender": "unisex"
+  },
+  {
+    "name": "Boxy Mock Neck Tee",
+    "slug": "boxy-mock-neck-tee-charcoal",
+    "category": "t-shirts",
+    "price": 1690,
+    "description": "Boxy Mock Neck Tee in charcoal — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "100% cotton jersey",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10217.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Charcoal",
+        "hex": "#4a4a48"
+      }
+    ],
+    "stockCount": 33,
+    "isFeatured": true,
+    "isNewArrival": false,
+    "rating": 4.5,
+    "reviewCount": 133,
+    "gender": "unisex"
+  },
+  {
+    "name": "Boxy Mock Neck Tee",
+    "slug": "boxy-mock-neck-tee-rust",
+    "category": "t-shirts",
+    "price": 1690,
+    "originalPrice": 2190,
+    "description": "Boxy Mock Neck Tee in rust — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "100% cotton jersey",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10218.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Rust",
+        "hex": "#b5603e"
+      }
+    ],
+    "stockCount": 12,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "rating": 4.8,
+    "reviewCount": 171,
+    "gender": "unisex"
+  },
+  {
+    "name": "Heavyweight Crew Tee",
+    "slug": "heavyweight-crew-tee-camel",
+    "category": "t-shirts",
+    "price": 1290,
+    "description": "Heavyweight Crew Tee in camel — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "100% cotton jersey",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10227.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Camel",
+        "hex": "#c69a72"
+      }
+    ],
+    "stockCount": 22,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "rating": 4.8,
+    "reviewCount": 206,
+    "gender": "men"
+  },
+  {
+    "name": "Heavyweight Crew Tee",
+    "slug": "heavyweight-crew-tee-white",
+    "category": "t-shirts",
+    "price": 1290,
+    "description": "Heavyweight Crew Tee in white — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "100% cotton jersey",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10228.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f7f7f5"
+      }
+    ],
+    "stockCount": 8,
+    "isFeatured": true,
+    "isNewArrival": false,
+    "rating": 4.9,
+    "reviewCount": 124,
+    "gender": "men"
+  },
+  {
+    "name": "Heavyweight Crew Tee",
+    "slug": "heavyweight-crew-tee-black",
+    "category": "t-shirts",
+    "price": 1290,
+    "description": "Heavyweight Crew Tee in black — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "100% cotton jersey",
+      "Regular fit — true to size",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10230.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1a1a1a"
+      }
+    ],
+    "stockCount": 18,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "rating": 4.3,
+    "reviewCount": 178,
+    "gender": "men"
+  },
+  {
+    "name": "High Rise Flare Jeans",
+    "slug": "high-rise-flare-jeans-mid-blue",
+    "category": "jeans",
+    "price": 3290,
+    "description": "High Rise Flare Jeans in mid blue — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Rigid cotton denim",
+      "High rise, full length",
+      "Five-pocket styling",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10195.jpg",
+      "10210.jpg",
+      "10194.jpg"
+    ],
+    "sizes": [
+      "24",
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "colors": [
+      {
+        "name": "Mid Blue",
+        "hex": "#5b7fae"
+      }
+    ],
+    "stockCount": 32,
+    "isFeatured": true,
+    "isNewArrival": true,
+    "rating": 4.3,
+    "reviewCount": 81,
+    "gender": "women"
+  },
+  {
+    "name": "Cropped Hooded Puffer Jacket",
+    "slug": "cropped-hooded-puffer-jacket-sage",
+    "category": "jackets-and-coats",
+    "price": 5990,
+    "description": "Cropped Hooded Puffer Jacket in sage — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Water-repellent outer shell",
+      "Relaxed fit — size down for a closer fit",
+      "Dry clean or gentle wash",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10157.jpg",
+      "10162.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Sage",
+        "hex": "#a4ad94"
+      }
+    ],
+    "stockCount": 37,
+    "isFeatured": true,
+    "isNewArrival": false,
+    "rating": 4.9,
+    "reviewCount": 251,
+    "gender": "women"
+  },
+  {
+    "name": "Long Quilted Puffer Coat",
+    "slug": "long-quilted-puffer-coat-black",
+    "category": "jackets-and-coats",
+    "price": 7990,
+    "originalPrice": 9990,
+    "description": "Long Quilted Puffer Coat in black — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Water-repellent outer shell",
+      "Relaxed fit — size down for a closer fit",
+      "Dry clean or gentle wash",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10158.jpg",
+      "10160.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1a1a1a"
+      }
+    ],
+    "stockCount": 21,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "rating": 4.5,
+    "reviewCount": 70,
+    "gender": "unisex"
+  },
+  {
+    "name": "Hooded Puffer Gilet",
+    "slug": "hooded-puffer-gilet-khaki",
+    "category": "jackets-and-coats",
+    "price": 4490,
+    "description": "Hooded Puffer Gilet in khaki — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Water-repellent outer shell",
+      "Relaxed fit — size down for a closer fit",
+      "Dry clean or gentle wash",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10161.jpg",
+      "10159.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Khaki",
+        "hex": "#7a7150"
+      }
+    ],
+    "stockCount": 14,
+    "isFeatured": false,
+    "isNewArrival": true,
+    "rating": 4.8,
+    "reviewCount": 91,
+    "gender": "unisex"
+  },
+  {
+    "name": "Oversized Knit Coat",
+    "slug": "oversized-knit-coat-brown",
+    "category": "jackets-and-coats",
+    "price": 6490,
+    "description": "Oversized Knit Coat in brown — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Water-repellent outer shell",
+      "Relaxed fit — size down for a closer fit",
+      "Dry clean or gentle wash",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10164.jpg",
+      "10163.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Brown",
+        "hex": "#7a4026"
+      }
+    ],
+    "stockCount": 22,
+    "isFeatured": true,
+    "isNewArrival": false,
+    "rating": 5,
+    "reviewCount": 14,
+    "gender": "women"
+  },
+  {
+    "name": "Faux Leather Puffer Jacket",
+    "slug": "faux-leather-puffer-jacket-beige",
+    "category": "jackets-and-coats",
+    "price": 6990,
+    "description": "Faux Leather Puffer Jacket in beige — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Water-repellent outer shell",
+      "Relaxed fit — size down for a closer fit",
+      "Dry clean or gentle wash",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10213.jpg",
+      "10212.jpg",
+      "10211.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Beige",
+        "hex": "#ddd2bf"
+      }
+    ],
+    "stockCount": 3,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "rating": 4.5,
+    "reviewCount": 28,
+    "gender": "women"
+  },
+  {
+    "name": "Knit Hoodie",
+    "slug": "knit-hoodie-grey",
+    "category": "hoodies-and-sweatshirts",
+    "price": 3990,
+    "description": "Knit Hoodie in grey — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Brushed-back cotton fleece",
+      "Relaxed, dropped-shoulder fit",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10240.jpg",
+      "10239.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Grey",
+        "hex": "#a7a5a1"
+      }
+    ],
+    "stockCount": 20,
+    "isFeatured": true,
+    "isNewArrival": false,
+    "rating": 4.9,
+    "reviewCount": 89,
+    "gender": "unisex"
+  },
+  {
+    "name": "Oversized Fleece Hoodie",
+    "slug": "oversized-fleece-hoodie-pink",
+    "category": "hoodies-and-sweatshirts",
+    "price": 2790,
+    "description": "Oversized Fleece Hoodie in pink — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Brushed-back cotton fleece",
+      "Relaxed, dropped-shoulder fit",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10242.jpg",
+      "10241.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Pink",
+        "hex": "#e0559a"
+      }
+    ],
+    "stockCount": 32,
+    "isFeatured": false,
+    "isNewArrival": true,
+    "rating": 4.9,
+    "reviewCount": 16,
+    "gender": "women"
+  },
+  {
+    "name": "Oversized Fleece Hoodie",
+    "slug": "oversized-fleece-hoodie-charcoal",
+    "category": "hoodies-and-sweatshirts",
+    "price": 2790,
+    "description": "Oversized Fleece Hoodie in charcoal — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Brushed-back cotton fleece",
+      "Relaxed, dropped-shoulder fit",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10245.jpg",
+      "10243.jpg",
+      "10244.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Charcoal",
+        "hex": "#4a4a48"
+      }
+    ],
+    "stockCount": 26,
+    "isFeatured": true,
+    "isNewArrival": false,
+    "rating": 4,
+    "reviewCount": 35,
+    "gender": "unisex"
+  },
+  {
+    "name": "Oversized Fleece Hoodie",
+    "slug": "oversized-fleece-hoodie-mauve",
+    "category": "hoodies-and-sweatshirts",
+    "price": 2790,
+    "description": "Oversized Fleece Hoodie in mauve — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Brushed-back cotton fleece",
+      "Relaxed, dropped-shoulder fit",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10247.jpg",
+      "10246.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Mauve",
+        "hex": "#d8ccd0"
+      }
+    ],
+    "stockCount": 19,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "rating": 4.9,
+    "reviewCount": 205,
+    "gender": "women"
+  },
+  {
+    "name": "Zip Bomber Sweatshirt",
+    "slug": "zip-bomber-sweatshirt-black",
+    "category": "hoodies-and-sweatshirts",
+    "price": 3290,
+    "description": "Zip Bomber Sweatshirt in black — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Brushed-back cotton fleece",
+      "Relaxed, dropped-shoulder fit",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10249.jpg",
+      "10248.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1a1a1a"
+      }
+    ],
+    "stockCount": 33,
+    "isFeatured": false,
+    "isNewArrival": true,
+    "rating": 4.1,
+    "reviewCount": 104,
+    "gender": "unisex"
+  },
+  {
+    "name": "Zip Bomber Sweatshirt",
+    "slug": "zip-bomber-sweatshirt-ecru",
+    "category": "hoodies-and-sweatshirts",
+    "price": 3290,
+    "description": "Zip Bomber Sweatshirt in ecru — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Brushed-back cotton fleece",
+      "Relaxed, dropped-shoulder fit",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10251.jpg",
+      "10250.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Ecru",
+        "hex": "#ece5d6"
+      }
+    ],
+    "stockCount": 26,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "rating": 4.4,
+    "reviewCount": 171,
+    "gender": "unisex"
+  },
+  {
+    "name": "Zip Bomber Sweatshirt",
+    "slug": "zip-bomber-sweatshirt-sand",
+    "category": "hoodies-and-sweatshirts",
+    "price": 3290,
+    "originalPrice": 3990,
+    "description": "Zip Bomber Sweatshirt in sand — a considered everyday piece with a clean, minimal silhouette.",
+    "details": [
+      "Brushed-back cotton fleece",
+      "Relaxed, dropped-shoulder fit",
+      "Machine wash cold",
+      "Designed in-house, ethically manufactured"
+    ],
+    "images": [
+      "10253.jpg",
+      "10252.jpg"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Sand",
+        "hex": "#c8a988"
+      }
+    ],
+    "stockCount": 34,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "rating": 4.3,
+    "reviewCount": 244,
+    "gender": "unisex"
+  }
+]
